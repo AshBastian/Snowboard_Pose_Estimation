@@ -1,0 +1,62 @@
+{
+  "androidApp/build.gradle.kts": {
+    "mtime": 1784661823.0326102,
+    "ast_hash": "135f43ea4796421d22e9000f673325ab",
+    "semantic_hash": "135f43ea4796421d22e9000f673325ab"
+  },
+  "androidApp/src/main/kotlin/com/snowboardpose/app/MainActivity.kt": {
+    "mtime": 1784661618.532246,
+    "ast_hash": "27b7aff6d97353932463789e8a8074ac",
+    "semantic_hash": "27b7aff6d97353932463789e8a8074ac"
+  },
+  "build.gradle.kts": {
+    "mtime": 1784661760.9091852,
+    "ast_hash": "888b21d8871842193fb015a17295e7e2",
+    "semantic_hash": "888b21d8871842193fb015a17295e7e2"
+  },
+  "gradlew": {
+    "mtime": 1784661838.9027286,
+    "ast_hash": "a43be8432bac3ffd05b3769aa42fe996",
+    "semantic_hash": "a43be8432bac3ffd05b3769aa42fe996"
+  },
+  "settings.gradle.kts": {
+    "mtime": 1784661481.0855434,
+    "ast_hash": "25d0a7a00e57072161c404a19d22d4e0",
+    "semantic_hash": "25d0a7a00e57072161c404a19d22d4e0"
+  },
+  "shared/build.gradle.kts": {
+    "mtime": 1784661857.3991983,
+    "ast_hash": "71fc58a092fb3b36549326d3339c7203",
+    "semantic_hash": "71fc58a092fb3b36549326d3339c7203"
+  },
+  "shared/src/commonMain/kotlin/com/snowboardpose/shared/Greeting.kt": {
+    "mtime": 1784661582.8410444,
+    "ast_hash": "69dee3420ebf9c033e9bd759d07520cf",
+    "semantic_hash": "69dee3420ebf9c033e9bd759d07520cf"
+  },
+  "shared/src/commonTest/kotlin/com/snowboardpose/shared/GreetingTest.kt": {
+    "mtime": 1784661590.8180883,
+    "ast_hash": "281d7899d126b494b48a21793f1525e4",
+    "semantic_hash": "281d7899d126b494b48a21793f1525e4"
+  },
+  "Plan Files/cross_platform_movement_detection_master_plan.md": {
+    "mtime": 1784659553.9251757,
+    "ast_hash": "252ef41ffbecc03df4ea0c5832136132",
+    "semantic_hash": "252ef41ffbecc03df4ea0c5832136132"
+  },
+  "Plan Files/milestone_1_completion_report.md": {
+    "mtime": 1784662906.6256886,
+    "ast_hash": "96872c33dbfb963bb40b2332e6f30c52",
+    "semantic_hash": "96872c33dbfb963bb40b2332e6f30c52"
+  },
+  "Plan Files/milestone_1_plan.md": {
+    "mtime": 1784660843.1008346,
+    "ast_hash": "999e59ad90f9c193314f126fd158c2df",
+    "semantic_hash": "999e59ad90f9c193314f126fd158c2df"
+  },
+  "Plan Files/milestone_roadmap.md": {
+    "mtime": 1784662914.4293516,
+    "ast_hash": "42840820833e3df5b336301020bd7eef",
+    "semantic_hash": "42840820833e3df5b336301020bd7eef"
+  }
+}
