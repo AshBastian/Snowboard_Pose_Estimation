@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+*.hprof
+
+# Local machine configuration (contains machine-specific SDK path)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+
+# Android
+captures/
+.cxx/
